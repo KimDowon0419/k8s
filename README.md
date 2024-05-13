@@ -12,3 +12,9 @@ https://tech.kakao.com/2021/12/20/kubernetes-etcd/
 ## 3. Kube Controller Manager
 
 ## 4. Kube Scheduler
+
+## 5. Kubelet
+
+## 6. Kube Proxy
+
+## 7. Pod
