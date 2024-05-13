@@ -10,3 +10,5 @@ https://tech.kakao.com/2021/12/20/kubernetes-etcd/
 ## 2. Kube-API server
 
 ## 3. Kube Controller Manager
+
+## 4. Kube Scheduler
