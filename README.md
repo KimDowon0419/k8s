@@ -20,3 +20,5 @@ https://tech.kakao.com/2021/12/20/kubernetes-etcd/
 ## 7. Pod
 
 ## 8. ReplicaSets
+
+## 9. Deployments
