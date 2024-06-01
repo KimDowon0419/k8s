@@ -24,3 +24,7 @@ https://tech.kakao.com/2021/12/20/kubernetes-etcd/
 ## 9. Deployments
 
 ## 10. Services
+
+## 11. Namespaces
+
+## 12. Imperative Commands
