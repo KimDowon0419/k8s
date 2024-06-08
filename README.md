@@ -28,3 +28,14 @@ https://tech.kakao.com/2021/12/20/kubernetes-etcd/
 ## 11. Namespaces
 
 ## 12. Imperative Commands
+
+Scheduling
+=============
+
+## 1. Manual Scheduling
+
+## 2. Labels and Selector
+
+## 3. Taints and Tolerations
+
+## 4. Node Affinity
