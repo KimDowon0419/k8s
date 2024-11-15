@@ -5,7 +5,8 @@ Core Concepts
 =============
 
 ## 1. ETCD
-https://tech.kakao.com/2021/12/20/kubernetes-etcd/
+
+RSM : https://tech.kakao.com/2021/12/20/kubernetes-etcd/
 
 ## 2. Kube-API server
 
