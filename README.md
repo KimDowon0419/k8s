@@ -39,4 +39,27 @@ Scheduling
 
 ## 3. Taints and Tolerations
 
-## 4. Node Affinity
+## 4. Node Selector & Node Affinity
+
+## 5. Daemonsets
+
+## 6. Static Pods
+
+## 7. Multiple Schedulers
+
+## 8. Configuring Scheduler Profiles
+
+Application Lifecycle Management
+=============
+
+## 1. Rolling Updates and Rollbacks
+
+## 2. Commands and Arguments
+
+## 3. Configure Environment Variables and ConfigMaps in Application
+
+## 4. Configure Secret in Applications
+
+## 5. Multi Container Pods
+
+## 6. InitContainers
