@@ -107,7 +107,7 @@ Networking
 
 ## 4. Service Networking
 
-## 5. DNS and CoreCNS in Kubernetes
+## 5. DNS and CoreDNS in Kubernetes
 
 ## 6. Ingress
 
